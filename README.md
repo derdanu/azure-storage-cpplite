@@ -1,8 +1,5 @@
-**The [next generation of Storage CPP SDK](https://github.com/Azure/azure-sdk-for-cpp/tree/master/sdk/storage) is generally available now. We encourage you to start evaluating the new SDK. The package can be found [here](https://github.com/Azure/azure-sdk-for-cpp/releases).**
-
-**This SDK will continue to be supported and updated on an exceptional basis such as security issue. New features will only be added to next generation SDK.**
-
-# Azure Storage C++ Client Library (Lite)
+# Azure Storage C++ Client Library (Lite) (Deprecated)
+For more details on the retirement and alternatives to using this project, visit [Retirement notice: The legacy Azure Storage C++ client libraries will be retired on 29 March 2025](https://aka.ms/AzStorageCPPSDKRetirement).
 
 ## About
 
